@@ -1,49 +1,53 @@
-
-
 Display travis result in current github project
 
 	[![Build Status][travis-image]][travis-url]
+	
+### JS Formats
 
+- ![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)
+- ![JS format](https://img.shields.io/badge/JS_format-amd-blue.svg?style=flat-square)
+- ![JS format](https://img.shields.io/badge/JS_format-cjs-green.svg?style=flat-square)
+- ![JS format](https://img.shields.io/badge/JS_format-es6-orange.svg?style=flat-square)
 
+### Written in
 
-## Github - shields.io
+- ![written in](https://img.shields.io/badge/written_in-Vanillajs-orange.svg?style=flat-square)
+- ![written in](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)
+- ![written in](https://img.shields.io/badge/written_in-Angular-red.svg?style=flat-square)
+- ![written in](https://img.shields.io/badge/written_in-Aurelia-92278F.svg?style=flat-square)
 
+## JSPM badge
 
-- [![GitHub tag](https://img.shields.io/github/tag/strongloop/express.svg?style=flat-square)]()
-- [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)]()
-- [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?style=flat-square)]()
-- [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=flat-square)]()
-- [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=flat-square)]()
-- [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=flat-square)]()
+- ![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)
+- ![JSPM](https://img.shields.io/badge/JSPM-github:distros/eyecon--bootstrap--slider-db772b.svg?style=flat-square)
 
 ## Builds
 
 - [![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg)](http://gulpjs.com/)
 - [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-
-## NPM
-
-- [![npm version](http://img.shields.io/npm/v/gh-badges.svg)](https://npmjs.org/package/gh-badges)
-
-
-## Badges from fury.io
-
-[fury.io](https://fury.io)
+## [fury.io](https://fury.io)
 
 - [![GitHub version](https://badge.fury.io/gh/jspm%2Fjspm-cli.svg)](http://badge.fury.io/gh/jspm%2Fjspm-cli)
 - [![npm version](https://badge.fury.io/js/jspm.svg)](http://badge.fury.io/js/jspm)
 - [![Bower version](https://badge.fury.io/bo/jquery-ui.svg)](http://badge.fury.io/bo/jquery-ui)
 - [![PHP version](https://badge.fury.io/ph/composer%2Fcomposer.svg)](http://badge.fury.io/ph/composer%2Fcomposer)
 
-## Badges from nodei.co
-
-[nodei.co](https://nodei.co)
+## [nodei.co](https://nodei.co)
 
 - [![NPM](https://nodei.co/npm/dalekjs.png)](https://nodei.co/npm/dalekjs/)
 - [![NPM](https://nodei.co/npm-dl/dalekjs.png)](https://nodei.co/npm/dalekjs/)
 
-## Donations/tips
+## Github - shields.io (not dynamic)
+
+- [![GitHub tag](https://img.shields.io/github/tag/distros/eyecon-bootstrap-slider.svg?style=flat-square)]()
+- [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)]()
+- [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?style=flat-square)]()
+- [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=flat-square)]()
+- [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=flat-square)]()
+- [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=flat-square)]()
+ 
+## Donations/tips 
 
 - [![Gittip](http://img.shields.io/gittip/shields.svg)](https://www.gittip.com/Shields/)
 
@@ -51,16 +55,16 @@ Display travis result in current github project
 
 - [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jspm/jspm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Build status
-
-[![Travis branch](https://img.shields.io/travis/joyent/node/v0.6.svg?style=flat-square)]()
+## Tracis-ci
 
 [![Build Status](https://travis-ci.org/dalekjs/dalek.svg)](https://travis-ci.org/dalekjs/dalek)
+
+## Drone.io
+
 [![Build Status](https://drone.io/github.com/dalekjs/dalek/status.png)](https://drone.io/github.com/dalekjs/dalek/latest)
 
-## Code Coverage
+## Codecov
 
-shield.io/codecov
 [![Codecov](https://img.shields.io/codecov/c/github/codecov/example-python.svg?style=flat-square)]()
 
 ## [Dalekjs](http://dalekjs.com/)
@@ -71,15 +75,6 @@ shield.io/codecov
 
 [![Dependency Status](https://david-dm.org/dalekjs/dalek.svg)](https://david-dm.org/dalekjs/dalek)
 [![devDependency Status](https://david-dm.org/dalekjs/dalek/dev-status.svg)](https://david-dm.org/dalekjs/dalek#info=devDependencies)
-
-## [Stability badges](https://github.com/hughsk/stability-badges)
-
-- 0 : [![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
-- 1 : [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
-- 2 : [![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges)
-- 3 : [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
-- 4 : [![frozen](http://badges.github.io/stability-badges/dist/frozen.svg)](http://github.com/badges/stability-badges)
-- 5 : [![locked](http://badges.github.io/stability-badges/dist/locked.svg)](http://github.com/badges/stability-badges)
 
 ## Waffle
 
@@ -117,17 +112,8 @@ This website will show if the dependencies of a package are up to date
 [![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)]()
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()
 
-## Custom badge
+## Custom badges
 
 	https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
 
 ![custom](https://img.shields.io/badge/awesomeness-high-red.svg)
-
-
-
-## API
-
-https://readthedocs.org/
-
-create a resources/api.xml , example from [jquery](http://api.jquery.com/resources/api.xml)
-
