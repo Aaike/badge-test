@@ -1,7 +1,3 @@
-Display travis result in current github project
-
-	[![Build Status][travis-image]][travis-url]
-
 ### JS Formats
 
 - [![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -12,7 +8,7 @@ Display travis result in current github project
 - [![JS format](https://img.shields.io/badge/JS_format-atscript-red.svg?style=flat-square)](http://en.wikipedia.org/wiki/AtScript)
 - [![JS format](https://img.shields.io/badge/JS_format-typescript-0074c1.svg?style=flat-square)](http://www.typescriptlang.org/)
 
-### Written in
+### Written in...
 
 - [![written in Vanillajs](https://img.shields.io/badge/written_in-Vanillajs-orange.svg?style=flat-square)](http://vanilla-js.com/)
 - [![written in jQuery](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://jquery.com/)
@@ -20,34 +16,29 @@ Display travis result in current github project
 - [![written in Angular 2.x](https://img.shields.io/badge/written_in-Angular_2.x-red.svg?style=flat-square)](https://angularjs.org/)
 - [![written in Aurelia](https://img.shields.io/badge/written_in-Aurelia-92278F.svg?style=flat-square)](http://aurelia.io)
 
-## JSPM badge
+## JSPM
 
 - [![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)](http://jspm.io)
 - [![JSPM](https://img.shields.io/badge/JSPM-github:distros/eyecon--bootstrap--slider-db772b.svg?style=flat-square)](http://jspm.io)
 
-#### Module dependencies
+#### List module dependencies
 
 - [![jQuery](https://img.shields.io/badge/jquery-*-db772b.svg?style=flat-square)](https://github.com/components/jquery)
 - [![Bootstrap](https://img.shields.io/badge/bootstrap-^3.3.5-db772b.svg?style=flat-square)](https://github.com/twbs/bootstrap)
 
-## Builds
+## Built with...
 
 - [![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg?style=flat-square)](http://gulpjs.com/)
 - [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-## [fury.io](https://fury.io)
+## Display package versions using [fury.io](https://fury.io)
 
 - [![GitHub version](https://badge.fury.io/gh/jspm%2Fjspm-cli.svg?style=flat-square)](http://badge.fury.io/gh/jspm%2Fjspm-cli)
 - [![npm version](https://badge.fury.io/js/jspm.svg?style=flat-square)](http://badge.fury.io/js/jspm)
 - [![Bower version](https://badge.fury.io/bo/jquery-ui.svg?style=flat-square)](http://badge.fury.io/bo/jquery-ui)
 - [![PHP version](https://badge.fury.io/ph/composer%2Fcomposer.svg?style=flat-square)](http://badge.fury.io/ph/composer%2Fcomposer)
 
-## [nodei.co](https://nodei.co)
-
-- [![NPM](https://nodei.co/npm/dalekjs.png)](https://nodei.co/npm/dalekjs/)
-- [![NPM](https://nodei.co/npm-dl/dalekjs.png)](https://nodei.co/npm/dalekjs/)
-
-## Github - shields.io (not dynamic)
+## Github badges (not dynamic yet)
 
 - [![GitHub tag](https://img.shields.io/github/tag/distros/eyecon-bootstrap-slider.svg?style=flat-square)]()
 - [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)]()
@@ -93,36 +84,32 @@ Display travis result in current github project
 
 - [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dalekjs/dalek/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-
 ## license badges
 
+- [![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)]()
+- [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()
 - [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-## [Github badge](http://githubbadge.appspot.com/)
-
 
 ## Appveyor
 
 - [![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?style=flat-square)]()
-
 - [![AppVeyor](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=master%20-%20OK)]()
 - [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/gruntjs/grunt?branch=master&amp;svg=true)]()
 - [![AppVeyor](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)]()
 
-
-# David:
-
-This website will show if the dependencies of a package are up to date
+# David
 
 - [![Dependency Status](https://img.shields.io/david/jshint/jshint.svg?style=flat)](https://david-dm.org/jspm/jspm-cli)
 - [![devDependency Status](https://img.shields.io/david/dev/jshint/jshint.svg?style=flat)](https://david-dm.org/jshint/jshint#info=devDependencies)
 - [![Coverage Status](https://img.shields.io/coveralls/jshint/jshint.svg?style=flat)](https://coveralls.io/r/jshint/jshint?branch=master)
-
-- [![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)]()
-- [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()
 
 ## Custom badges
 
 	https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
 
 - ![custom](https://img.shields.io/badge/awesomeness-high-red.svg)
+
+## Node banners using [nodei.co](https://nodei.co)
+
+- [![NPM](https://nodei.co/npm/dalekjs.png)](https://nodei.co/npm/dalekjs/)
+- [![NPM](https://nodei.co/npm-dl/dalekjs.png)](https://nodei.co/npm/dalekjs/)
