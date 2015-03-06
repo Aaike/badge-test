@@ -23,21 +23,21 @@ There are also custom badges for displaying JS format , framework and JSPM id/de
 
 ## JS Formats
 
-- [![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [![JS format](https://img.shields.io/badge/JS_format-amd-blue.svg?style=flat-square)](http://requirejs.org/docs/whyamd.html)
-- [![JS format](https://img.shields.io/badge/JS_format-coffeescript-97552c.svg?style=flat-square)](http://coffeescript.org/)
-- [![JS format](https://img.shields.io/badge/JS_format-cjs-green.svg?style=flat-square)](http://wiki.commonjs.org/wiki/CommonJS)
-- [![JS format](https://img.shields.io/badge/JS_format-es6-orange.svg?style=flat-square)](http://www.ecmascript.org/)
-- [![JS format](https://img.shields.io/badge/JS_format-atscript-red.svg?style=flat-square)](http://en.wikipedia.org/wiki/AtScript)
-- [![JS format](https://img.shields.io/badge/JS_format-typescript-0074c1.svg?style=flat-square)](http://www.typescriptlang.org/)
+- [![Global](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![AMD](https://img.shields.io/badge/JS_format-amd-blue.svg?style=flat-square)](http://requirejs.org/docs/whyamd.html)
+- [![CoffeeScript](https://img.shields.io/badge/JS_format-coffeescript-97552c.svg?style=flat-square)](http://coffeescript.org/)
+- [![CommonJS](https://img.shields.io/badge/JS_format-cjs-green.svg?style=flat-square)](http://wiki.commonjs.org/wiki/CommonJS)
+- [![ES6](https://img.shields.io/badge/JS_format-es6-orange.svg?style=flat-square)](http://www.ecmascript.org/)
+- [![AtScript](https://img.shields.io/badge/JS_format-atscript-red.svg?style=flat-square)](http://en.wikipedia.org/wiki/AtScript)
+- [![TypeScript](https://img.shields.io/badge/JS_format-typescript-0074c1.svg?style=flat-square)](http://www.typescriptlang.org/)
 
 ## Framework
 
-- [![Vanillajs](https://img.shields.io/badge/written_in-Vanillajs-orange.svg?style=flat-square)](http://vanilla-js.com/)
-- [![jQuery](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://jquery.com/)
-- [![Angular 1.x](https://img.shields.io/badge/written_in-Angular_1.x-red.svg?style=flat-square)](https://angularjs.org/)
-- [![Angular 2.x](https://img.shields.io/badge/written_in-Angular_2.x-red.svg?style=flat-square)](https://angularjs.org/)
-- [![Aurelia](https://img.shields.io/badge/written_in-Aurelia-92278F.svg?style=flat-square)](http://aurelia.io)
+- [![Vanillajs](https://img.shields.io/badge/framework-Vanillajs-orange.svg?style=flat-square)](http://vanilla-js.com/)
+- [![jQuery](https://img.shields.io/badge/framework-jQuery-blue.svg?style=flat-square)](http://jquery.com/)
+- [![Angular 1.x](https://img.shields.io/badge/framework-Angular_1.x-red.svg?style=flat-square)](https://angularjs.org/)
+- [![Angular 2.x](https://img.shields.io/badge/framework-Angular_2.x-red.svg?style=flat-square)](https://angularjs.org/)
+- [![Aurelia](https://img.shields.io/badge/framework-Aurelia-92278F.svg?style=flat-square)](http://aurelia.io)
 
 ## JSPM
 
