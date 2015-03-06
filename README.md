@@ -5,7 +5,7 @@ There are also custom badges for displaying JS format , framework and JSPM id/de
 
 ## Example
 
-[![GitHub version](https://badge.fury.io/gh/jspm/jspm-cli.svg?style=flat-square)](http://badge.fury.io/gh/jspm/jspm-cli)
+[![GitHub version](https://badge.fury.io/gh/jspm%2jspm-cli.svg?style=flat-square)](http://badge.fury.io/gh/jspm%2jspm-cli)
 [![Build Status](https://travis-ci.org/jspm/jspm-cli.svg?branch=master&style=flat-square)](https://travis-ci.org/jspm/jspm-cli)
 [![Dependency Status](https://david-dm.org/jspm/jspm-cli.svg?style=flat-square)](https://david-dm.org/jspm/jspm-cli)
 [![devDependency Status](https://david-dm.org/jspm/jspm-cli/dev-status.svg?style=flat-square)](https://david-dm.org/jspm/jspm-cli#info=devDependencies)
