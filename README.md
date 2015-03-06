@@ -78,7 +78,7 @@ There are also custom badges for displaying JS format , framework and JSPM id/de
 
 - [![Gitter](https://badges.gitter.im/Join%20Chat.svg?style=flat-square)](https://gitter.im/jspm/jspm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Tracis-ci
+## Travis-ci
 
 - [![Build Status](https://travis-ci.org/dalekjs/dalek.svg?style=flat-square)](https://travis-ci.org/dalekjs/dalek)
 
