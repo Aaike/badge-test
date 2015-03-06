@@ -143,3 +143,6 @@ For easy of use generate your badges using [badgify](https://www.npmjs.com/packa
 
 - [![NPM](https://nodei.co/npm/dalekjs.png)](https://nodei.co/npm/dalekjs/)
 - [![NPM](https://nodei.co/npm-dl/dalekjs.png)](https://nodei.co/npm/dalekjs/)
+
+
+here is a [link](https://www.npmjs.com/package/badges) to even more badge examples.
