@@ -125,6 +125,11 @@ There are also custom badges for displaying JS format , framework and JSPM id/de
 - [![Dependency Status](https://img.shields.io/david/jshint/jshint.svg?style=flat)](https://david-dm.org/jspm/jspm-cli)
 - [![devDependency Status](https://img.shields.io/david/dev/jshint/jshint.svg?style=flat)](https://david-dm.org/jshint/jshint#info=devDependencies)
 - [![Coverage Status](https://img.shields.io/coveralls/jshint/jshint.svg?style=flat)](https://coveralls.io/r/jshint/jshint?branch=master)
+ 
+# [Issuestats](http://issuestats.com/)
+
+- [![Pull Request Stats](http://issuestats.com/github/joyent/node/badge/pr?style=flat)](http://issuestats.com/github/joyent/node)
+- [![Issue Stats](http://issuestats.com/github/joyent/node/badge/issue?style=flat)](http://issuestats.com/github/joyent/node)
 
 ## Custom badges
 
