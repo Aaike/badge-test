@@ -107,10 +107,10 @@ There are also custom badges for displaying JS format , framework and JSPM id/de
 
 - [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dalekjs/dalek/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-## license badges
+## Licenses
 
-- [![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)]()
-- [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()
+- [![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+- [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)](http://www.apache.org/licenses/LICENSE-2.0)
 - [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Appveyor
@@ -120,7 +120,7 @@ There are also custom badges for displaying JS format , framework and JSPM id/de
 - [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/gruntjs/grunt?branch=master&amp;svg=true)]()
 - [![AppVeyor](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)]()
 
-# David
+## David
 
 - [![Dependency Status](https://img.shields.io/david/jshint/jshint.svg?style=flat)](https://david-dm.org/jspm/jspm-cli)
 - [![devDependency Status](https://img.shields.io/david/dev/jshint/jshint.svg?style=flat)](https://david-dm.org/jshint/jshint#info=devDependencies)
