@@ -132,7 +132,7 @@ There are also custom badges for displaying JS format , framework and JSPM id/de
 
 - ![custom](https://img.shields.io/badge/awesomeness-high-red.svg)
 
-## Node banners using [nodei.co](https://nodei.co)
+## NPM banners using [nodei.co](https://nodei.co)
 
 - [![NPM](https://nodei.co/npm/dalekjs.png)](https://nodei.co/npm/dalekjs/)
 - [![NPM](https://nodei.co/npm-dl/dalekjs.png)](https://nodei.co/npm/dalekjs/)
