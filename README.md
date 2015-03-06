@@ -23,15 +23,15 @@ Display travis result in current github project
 
 ## Builds
 
-- [![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg)](http://gulpjs.com/)
+- [![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg?style=flat-square)](http://gulpjs.com/)
 - [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 ## [fury.io](https://fury.io)
 
-- [![GitHub version](https://badge.fury.io/gh/jspm%2Fjspm-cli.svg)](http://badge.fury.io/gh/jspm%2Fjspm-cli)
-- [![npm version](https://badge.fury.io/js/jspm.svg)](http://badge.fury.io/js/jspm)
-- [![Bower version](https://badge.fury.io/bo/jquery-ui.svg)](http://badge.fury.io/bo/jquery-ui)
-- [![PHP version](https://badge.fury.io/ph/composer%2Fcomposer.svg)](http://badge.fury.io/ph/composer%2Fcomposer)
+- [![GitHub version](https://badge.fury.io/gh/jspm%2Fjspm-cli.svg?style=flat-square)](http://badge.fury.io/gh/jspm%2Fjspm-cli)
+- [![npm version](https://badge.fury.io/js/jspm.svg?style=flat-square)](http://badge.fury.io/js/jspm)
+- [![Bower version](https://badge.fury.io/bo/jquery-ui.svg?style=flat-square)](http://badge.fury.io/bo/jquery-ui)
+- [![PHP version](https://badge.fury.io/ph/composer%2Fcomposer.svg?style=flat-square)](http://badge.fury.io/ph/composer%2Fcomposer)
 
 ## [nodei.co](https://nodei.co)
 
@@ -49,15 +49,15 @@ Display travis result in current github project
  
 ## Donations/tips 
 
-- [![Gittip](http://img.shields.io/gittip/shields.svg)](https://www.gittip.com/Shields/)
+- [![Gittip](http://img.shields.io/gittip/shields.svg?style=flat-square)](https://www.gittip.com/Shields/)
 
 ## Chat
 
-- [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jspm/jspm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- [![Gitter](https://badges.gitter.im/Join%20Chat.svg?style=flat-square)](https://gitter.im/jspm/jspm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Tracis-ci
 
-[![Build Status](https://travis-ci.org/dalekjs/dalek.svg)](https://travis-ci.org/dalekjs/dalek)
+[![Build Status](https://travis-ci.org/dalekjs/dalek.svg?style=flat-square)](https://travis-ci.org/dalekjs/dalek)
 
 ## Drone.io
 
@@ -73,8 +73,8 @@ Display travis result in current github project
 
 ## Dependencies
 
-[![Dependency Status](https://david-dm.org/dalekjs/dalek.svg)](https://david-dm.org/dalekjs/dalek)
-[![devDependency Status](https://david-dm.org/dalekjs/dalek/dev-status.svg)](https://david-dm.org/dalekjs/dalek#info=devDependencies)
+[![Dependency Status](https://david-dm.org/dalekjs/dalek.svg?style=flat-square)](https://david-dm.org/dalekjs/dalek)
+[![devDependency Status](https://david-dm.org/dalekjs/dalek/dev-status.svg?style=flat-square)](https://david-dm.org/dalekjs/dalek#info=devDependencies)
 
 ## Waffle
 
