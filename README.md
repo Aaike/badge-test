@@ -1,25 +1,34 @@
 Display travis result in current github project
 
 	[![Build Status][travis-image]][travis-url]
-	
+
 ### JS Formats
 
-- ![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)
-- ![JS format](https://img.shields.io/badge/JS_format-amd-blue.svg?style=flat-square)
-- ![JS format](https://img.shields.io/badge/JS_format-cjs-green.svg?style=flat-square)
-- ![JS format](https://img.shields.io/badge/JS_format-es6-orange.svg?style=flat-square)
+- [![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![JS format](https://img.shields.io/badge/JS_format-amd-blue.svg?style=flat-square)](http://requirejs.org/docs/whyamd.html)
+- [![JS format](https://img.shields.io/badge/JS_format-coffeescript-97552c.svg?style=flat-square)](http://coffeescript.org/)
+- [![JS format](https://img.shields.io/badge/JS_format-cjs-green.svg?style=flat-square)](http://wiki.commonjs.org/wiki/CommonJS)
+- [![JS format](https://img.shields.io/badge/JS_format-es6-orange.svg?style=flat-square)](http://www.ecmascript.org/)
+- [![JS format](https://img.shields.io/badge/JS_format-atscript-red.svg?style=flat-square)](http://en.wikipedia.org/wiki/AtScript)
+- [![JS format](https://img.shields.io/badge/JS_format-typescript-0074c1.svg?style=flat-square)](http://www.typescriptlang.org/)
 
 ### Written in
 
-- ![written in](https://img.shields.io/badge/written_in-Vanillajs-orange.svg?style=flat-square)
-- ![written in](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)
-- ![written in](https://img.shields.io/badge/written_in-Angular-red.svg?style=flat-square)
-- ![written in](https://img.shields.io/badge/written_in-Aurelia-92278F.svg?style=flat-square)
+- [![written in Vanillajs](https://img.shields.io/badge/written_in-Vanillajs-orange.svg?style=flat-square)](http://vanilla-js.com/)
+- [![written in jQuery](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://jquery.com/)
+- [![written in Angular 1.x](https://img.shields.io/badge/written_in-Angular_1.x-red.svg?style=flat-square)](https://angularjs.org/)
+- [![written in Angular 2.x](https://img.shields.io/badge/written_in-Angular_2.x-red.svg?style=flat-square)](https://angularjs.org/)
+- [![written in Aurelia](https://img.shields.io/badge/written_in-Aurelia-92278F.svg?style=flat-square)](http://aurelia.io)
 
 ## JSPM badge
 
-- ![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)
-- ![JSPM](https://img.shields.io/badge/JSPM-github:distros/eyecon--bootstrap--slider-db772b.svg?style=flat-square)
+- [![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)](http://jspm.io)
+- [![JSPM](https://img.shields.io/badge/JSPM-github:distros/eyecon--bootstrap--slider-db772b.svg?style=flat-square)](http://jspm.io)
+
+#### Module dependencies
+
+- [![jQuery](https://img.shields.io/badge/jquery-*-db772b.svg?style=flat-square)](https://github.com/components/jquery)
+- [![Bootstrap](https://img.shields.io/badge/bootstrap-^3.3.5-db772b.svg?style=flat-square)](https://github.com/twbs/bootstrap)
 
 ## Builds
 
@@ -46,8 +55,8 @@ Display travis result in current github project
 - [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=flat-square)]()
 - [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=flat-square)]()
 - [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=flat-square)]()
- 
-## Donations/tips 
+
+## Donations/tips
 
 - [![Gittip](http://img.shields.io/gittip/shields.svg?style=flat-square)](https://www.gittip.com/Shields/)
 
@@ -57,15 +66,15 @@ Display travis result in current github project
 
 ## Tracis-ci
 
-[![Build Status](https://travis-ci.org/dalekjs/dalek.svg?style=flat-square)](https://travis-ci.org/dalekjs/dalek)
+- [![Build Status](https://travis-ci.org/dalekjs/dalek.svg?style=flat-square)](https://travis-ci.org/dalekjs/dalek)
 
 ## Drone.io
 
-[![Build Status](https://drone.io/github.com/dalekjs/dalek/status.png)](https://drone.io/github.com/dalekjs/dalek/latest)
+- [![Build Status](https://drone.io/github.com/dalekjs/dalek/status.png)](https://drone.io/github.com/dalekjs/dalek/latest)
 
 ## Codecov
 
-[![Codecov](https://img.shields.io/codecov/c/github/codecov/example-python.svg?style=flat-square)]()
+- [![Codecov](https://img.shields.io/codecov/c/github/codecov/example-python.svg?style=flat-square)]()
 
 ## [Dalekjs](http://dalekjs.com/)
 
@@ -73,21 +82,21 @@ Display travis result in current github project
 
 ## Dependencies
 
-[![Dependency Status](https://david-dm.org/dalekjs/dalek.svg?style=flat-square)](https://david-dm.org/dalekjs/dalek)
-[![devDependency Status](https://david-dm.org/dalekjs/dalek/dev-status.svg?style=flat-square)](https://david-dm.org/dalekjs/dalek#info=devDependencies)
+- [![Dependency Status](https://david-dm.org/dalekjs/dalek.svg?style=flat-square)](https://david-dm.org/dalekjs/dalek)
+- [![devDependency Status](https://david-dm.org/dalekjs/dalek/dev-status.svg?style=flat-square)](https://david-dm.org/dalekjs/dalek#info=devDependencies)
 
 ## Waffle
 
-[![Stories in Ready](https://badge.waffle.io/dalekjs/dalek.svg?label=ready)](https://waffle.io/dalekjs/dalek)
+- [![Stories in Ready](https://badge.waffle.io/dalekjs/dalek.svg?label=ready)](https://waffle.io/dalekjs/dalek)
 
 ## Analytics
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dalekjs/dalek/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+- [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dalekjs/dalek/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 
 ## license badges
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+- [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## [Github badge](http://githubbadge.appspot.com/)
 
@@ -105,15 +114,15 @@ Display travis result in current github project
 
 This website will show if the dependencies of a package are up to date
 
-[![Dependency Status](https://img.shields.io/david/jshint/jshint.svg?style=flat)](https://david-dm.org/jspm/jspm-cli)
-[![devDependency Status](https://img.shields.io/david/dev/jshint/jshint.svg?style=flat)](https://david-dm.org/jshint/jshint#info=devDependencies)
-[![Coverage Status](https://img.shields.io/coveralls/jshint/jshint.svg?style=flat)](https://coveralls.io/r/jshint/jshint?branch=master)
+- [![Dependency Status](https://img.shields.io/david/jshint/jshint.svg?style=flat)](https://david-dm.org/jspm/jspm-cli)
+- [![devDependency Status](https://img.shields.io/david/dev/jshint/jshint.svg?style=flat)](https://david-dm.org/jshint/jshint#info=devDependencies)
+- [![Coverage Status](https://img.shields.io/coveralls/jshint/jshint.svg?style=flat)](https://coveralls.io/r/jshint/jshint?branch=master)
 
-[![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)]()
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()
+- [![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)]()
+- [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()
 
 ## Custom badges
 
 	https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
 
-![custom](https://img.shields.io/badge/awesomeness-high-red.svg)
+- ![custom](https://img.shields.io/badge/awesomeness-high-red.svg)
