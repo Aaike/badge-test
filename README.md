@@ -1,4 +1,26 @@
-### JS Formats
+# Badges
+
+This repository is an overview of various badges provided by shield.io and other services.
+There are also custom badges for displaying JS format , framework and JSPM id/dependencies.
+
+## Example collection  
+
+[![GitHub version](https://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider.svg?style=flat-square)](http://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider)
+[![Build Status](https://travis-ci.org/distros/eyecon-bootstrap-slider.svg?branch=master&style=flat-square)](https://travis-ci.org/distros/eyecon-bootstrap-slider)
+[![Dependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider)
+[![devDependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider/dev-status.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider#info=devDependencies)
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()  
+[![written in](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://www.jquery.com)
+[![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg?style=flat-square)](http://gulpjs.com/)  
+[![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)](http://jspm.io)
+[![jQuery](https://img.shields.io/badge/jquery-*-db772b.svg?style=flat-square)](https://github.com/components/jquery)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-^3.3.5-db772b.svg?style=flat-square)](https://github.com/twbs/bootstrap)
+
+
+# Overview
+
+## JS Formats
 
 - [![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [![JS format](https://img.shields.io/badge/JS_format-amd-blue.svg?style=flat-square)](http://requirejs.org/docs/whyamd.html)
@@ -8,13 +30,13 @@
 - [![JS format](https://img.shields.io/badge/JS_format-atscript-red.svg?style=flat-square)](http://en.wikipedia.org/wiki/AtScript)
 - [![JS format](https://img.shields.io/badge/JS_format-typescript-0074c1.svg?style=flat-square)](http://www.typescriptlang.org/)
 
-### Written in...
+## Framework
 
-- [![written in Vanillajs](https://img.shields.io/badge/written_in-Vanillajs-orange.svg?style=flat-square)](http://vanilla-js.com/)
-- [![written in jQuery](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://jquery.com/)
-- [![written in Angular 1.x](https://img.shields.io/badge/written_in-Angular_1.x-red.svg?style=flat-square)](https://angularjs.org/)
-- [![written in Angular 2.x](https://img.shields.io/badge/written_in-Angular_2.x-red.svg?style=flat-square)](https://angularjs.org/)
-- [![written in Aurelia](https://img.shields.io/badge/written_in-Aurelia-92278F.svg?style=flat-square)](http://aurelia.io)
+- [![Vanillajs](https://img.shields.io/badge/written_in-Vanillajs-orange.svg?style=flat-square)](http://vanilla-js.com/)
+- [![jQuery](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://jquery.com/)
+- [![Angular 1.x](https://img.shields.io/badge/written_in-Angular_1.x-red.svg?style=flat-square)](https://angularjs.org/)
+- [![Angular 2.x](https://img.shields.io/badge/written_in-Angular_2.x-red.svg?style=flat-square)](https://angularjs.org/)
+- [![Aurelia](https://img.shields.io/badge/written_in-Aurelia-92278F.svg?style=flat-square)](http://aurelia.io)
 
 ## JSPM
 
