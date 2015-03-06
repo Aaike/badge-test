@@ -1,18 +1,18 @@
 # Badges
 
-This repository is an overview of various badges provided by shield.io and other services.
+This repository is an overview of various badges provided by [shield.io](http://shield.io) and other services.
 There are also custom badges for displaying JS format , framework and JSPM id/dependencies.
 
-## Example collection  
+## Example
 
-[![GitHub version](https://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider.svg?style=flat-square)](http://badge.fury.io/gh/distros%2Feyecon-bootstrap-slider)
-[![Build Status](https://travis-ci.org/distros/eyecon-bootstrap-slider.svg?branch=master&style=flat-square)](https://travis-ci.org/distros/eyecon-bootstrap-slider)
-[![Dependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider)
-[![devDependency Status](https://david-dm.org/distros/eyecon-bootstrap-slider/dev-status.svg?style=flat-square)](https://david-dm.org/distros/eyecon-bootstrap-slider#info=devDependencies)
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()  
+[![GitHub version](https://badge.fury.io/gh/jspm/jspm-cli.svg?style=flat-square)](http://badge.fury.io/gh/jspm/jspm-cli)
+[![Build Status](https://travis-ci.org/jspm/jspm-cli.svg?branch=master&style=flat-square)](https://travis-ci.org/jspm/jspm-cli)
+[![Dependency Status](https://david-dm.org/jspm/jspm-cli.svg?style=flat-square)](https://david-dm.org/jspm/jspm-cli)
+[![devDependency Status](https://david-dm.org/jspm/jspm-cli/dev-status.svg?style=flat-square)](https://david-dm.org/jspm/jspm-cli#info=devDependencies)
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg?style=flat-square)]()
 [![written in](https://img.shields.io/badge/written_in-jQuery-blue.svg?style=flat-square)](http://www.jquery.com)
 [![JS format](https://img.shields.io/badge/JS_format-global-lightgrey.svg?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg?style=flat-square)](http://gulpjs.com/)  
+[![Built with gulp](http://img.shields.io/badge/built%20with-gulp.js-red.svg?style=flat-square)](http://gulpjs.com/)
 [![JSPM](https://img.shields.io/badge/JSPM-eyecon--bootstrap--slider-db772b.svg?style=flat-square)](http://jspm.io)
 [![jQuery](https://img.shields.io/badge/jquery-*-db772b.svg?style=flat-square)](https://github.com/components/jquery)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-^3.3.5-db772b.svg?style=flat-square)](https://github.com/twbs/bootstrap)
@@ -62,7 +62,7 @@ There are also custom badges for displaying JS format , framework and JSPM id/de
 
 ## Github badges (not dynamic yet)
 
-- [![GitHub tag](https://img.shields.io/github/tag/distros/eyecon-bootstrap-slider.svg?style=flat-square)]()
+- [![GitHub tag](https://img.shields.io/github/tag/jspm/jspm-cli.svg?style=flat-square)]()
 - [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)]()
 - [![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg?style=flat-square)]()
 - [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=flat-square)]()
