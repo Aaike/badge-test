@@ -3,6 +3,8 @@
 This repository is an overview of various badges provided by [shield.io](http://shield.io) and other services.
 There are also custom badges for displaying JS format , framework and JSPM id/dependencies.
 
+For easy of use generate your badges using [badgify](https://www.npmjs.com/package/badgify), [shields](https://www.npmjs.com/packages/shields), or any other badge generator.
+
 ## Example
 
 [![GitHub version](https://badge.fury.io/gh/jspm%2Fjspm-cli.svg?style=flat-square)](http://badge.fury.io/gh/jspm%2Fjspm-cli)
